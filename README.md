@@ -5,7 +5,7 @@ This is a git repository of the source files for the book
 
 Authors:
 
-* [Güpnter Plüschow](https://de.wikipedia.org/wiki/Gunther_Pl%C3%BCschow) (1886—1931)
+* [Günter Plüschow](https://de.wikipedia.org/wiki/Gunther_Pl%C3%BCschow) (1886—1931)
 
 
 # Licenses
