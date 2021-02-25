@@ -139,7 +139,6 @@ Gras, breit und behäbig, mein Simulaker^[^061]^. An
 einem anderen Tage waren die Tore geschlossen
 und nichts zu sehen. Wiederum an einem Tage
 saß mein Scheinflugzeug an einer anderen Stelle
-
 des grünen Rasens, wo es sich besonders gut
 abhob, und so ging es fort. Nun kamen die feindlichen
 Flieger und warfen Bomben auf Bomben
@@ -169,8 +168,8 @@ Besuches.
 
 Im Artilleriedepot hatte nämlich einer der
 Herren inzwischen Bomben für mich angefertigt.
-Ganz großartige Dinger! Große Zweikilogramm-
-Blechbüchsen, auf denen schön zu lesen war:
+Ganz großartige Dinger! Große Zweikilogramm-Blechbüchsen,
+auf denen schön zu lesen war:
 Sietas, Plambeck & Co., bester Java-Kaffee, wurden
 mit Dynamit, Hufeisennägeln und Eisenstücken
 gefüllt. Unten wurde eine Bleispitze angebracht
