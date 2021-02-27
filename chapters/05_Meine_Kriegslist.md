@@ -1,7 +1,7 @@
 # `Meine Kriegslist` {#fuenf .unnumbered}
 
 :::: justified
-**Wie** traurig sah es jetzt in meinem Häuschen
+**W**ie traurig sah es jetzt in meinem Häuschen
 aus, so einsam und verlassen!
 
 Gleich zu Beginn der Belagerung mußte der
