@@ -1067,7 +1067,7 @@ Ende April plötzlich gestört.
 
 Eines Abends kam der Befehl, daß fünfzig
 von uns hundert Offizieren am nächsten Morgen
-zu dem Offizierslager in Donington Hall übergeführt
+zu dem Offizierslager in Donington Hall^[^146]^ übergeführt
 werden sollten. Die Aufregung bei uns
 war groß, denn keiner wollte weg. Es half kein
 Bitten und kein Sträuben, es hieß einfach, Koffer
@@ -1378,3 +1378,5 @@ Oberst davor und schüttelte bedenklich den Kopf.
 [^144]: [*General Kluck*: vergleiche [Alexander von Kluck](https://de.wikipedia.org/wiki/Alexander_von_Kluck)]{.footnote}
 
 [^145]: [*Lusitania*: vergleiche [RMS Lusitania](https://de.wikipedia.org/wiki/RMS_Lusitania)]{.footnote}
+
+[^146]: [*Donington Hall*: vergleiche [Donington Hall](https://de.wikipedia.org/wiki/Donington_Hall)]{.footnote}
