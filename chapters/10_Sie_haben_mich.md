@@ -162,8 +162,8 @@ Reisepaß, meine Photographie war sauber eingeklebt,
 alle An- und Abmeldungen vorschriftsmäßig
 vorhanden.
 
-Und so stieg am dreißigsten Januar Neunzehn-
-hundertfünfzehn der Schweizer Schlossergeselle
+Und so stieg am dreißigsten Januar
+Neunzehnhundertfünfzehn der Schweizer Schlossergeselle
 Ernst Suse an Bord des neutralen italienischen
 Dampfers „Duga degli Abruzzi“ und verschwand
 im Zwischendeck.

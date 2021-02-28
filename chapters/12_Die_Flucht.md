@@ -34,7 +34,7 @@ Kameraden und kam seelisch und körperlich herunter.
 Und dabei konnte ich doch eigentlich noch zufrieden
 sein, ich hatte wenigstens was mitmachen können
 und viel erlebt! Aber so viele andere waren schon
-in den ersten Gefechtskagen verwundet in
+in den ersten Gefechtstagen verwundet in
 Feindeshand gefallen, und die unglücklichsten waren die,
 welche bei Beginn des Krieges aus Amerika
 gekommen waren, dort ihr Hab und Gut, ihr Alles
@@ -183,7 +183,7 @@ selbst aber nicht gesehen werden konnte.
 ::::
 
 :::: {.wrap-100 }
-![Donington Hall, Leicestershire, Eagland, wo die gefangenen deutschen Offiziere interniert sind.](Flieger_von_Tsingtau_200.jpg "Donington Hall, Leicestershire, Eagland, wo die gefangenen deutschen Offiziere interniert sind."){#b009}
+![Donington Hall, Leicestershire, England, wo die gefangenen deutschen Offiziere interniert sind.](Flieger_von_Tsingtau_200.jpg "Donington Hall, Leicestershire, England, wo die gefangenen deutschen Offiziere interniert sind."){#b009}
 ::::
 
 

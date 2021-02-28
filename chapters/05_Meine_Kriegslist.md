@@ -150,8 +150,8 @@ und hielten uns den Bauch vor Lachen, wenn wir
 sahen, wie die Bomben ihr unschuldiges Opfer
 heimsuchten.
 
-Eines Tages, als wieder besonders viele Bom-
-ben gefallen waren, nahm ich ein schönes Sprengstück
+Eines Tages, als wieder besonders viele
+Bomben gefallen waren, nahm ich ein schönes Sprengstück
 einer japanischen Fliegerbombe, befestigte
 daran meine Visitenkarte und schrieb darauf:
 „Den feindlichen Kollegen besten Gruß! Warum

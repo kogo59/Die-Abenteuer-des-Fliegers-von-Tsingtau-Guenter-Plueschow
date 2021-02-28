@@ -52,8 +52,8 @@ Sprenggranate mitten an Deck. „Triumph“
 drehte sofort ab und lief mit äußerster Kraft
 davon, und als kurze Zeit darauf unsere zweite
 Granate ankam, konnte sie nur noch fünfzig
-Meter hinter seinem Heck ins Wasser ein-
-schlagen.
+Meter hinter seinem Heck ins Wasser
+einschlagen.
 
 „Triumph“ dampfte dann nach einigen
 Signalen, die er mit dem japanischen Flaggschiff

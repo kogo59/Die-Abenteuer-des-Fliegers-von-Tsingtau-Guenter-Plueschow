@@ -563,8 +563,8 @@ der riesige Dampfer „Mongolia“^[^102]^ lag.
 Es war schlechtes Wetter, starker Seegang, und
 nicht mal das Fallreep war gefiert. Nach vielem
 Rufen und Schreien bemühte sich endlich jemand,
-das Fallreep herabzulassen, und mit „dem“ Kof-
-fer in der Hand bestieg Mr. McGarvin das
+das Fallreep herabzulassen, und mit „dem“
+Koffer in der Hand bestieg Mr. McGarvin das
 Schiff.
 
 Kein Mensch kümmerte sich um mich. Das Deck

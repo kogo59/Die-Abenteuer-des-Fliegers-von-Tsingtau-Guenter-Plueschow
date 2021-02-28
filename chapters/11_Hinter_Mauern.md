@@ -159,8 +159,8 @@ setzte sein Waschbecken neben das meine und
 zog in aller Seelenruhe sein Hemd aus.
 Donnerwetter, so viel Sauberkeit hatte ich doch nicht
 erwartet, und ich musterte ihn kritisch. Tadellos
-gewachsener Körper und sogar sauber, ja blitz-
-sauber! Aber Kopf, Hals und Hände, brrr!
+gewachsener Körper und sogar sauber, ja
+blitzsauber! Aber Kopf, Hals und Hände, brrr!
 Mitten im Waschen hörte ich plötzlich auf. Mein
 Gesicht wurde immer länger, mein Erstaunen war
 groß. Das Waschwasser meines Kollegen war
@@ -412,7 +412,7 @@ biedere Soldaten hatten die Aufsicht. Auf drei
 Zimmer wurden wir verteilt. Die Räume waren
 vollständig leer, eine elende Gasflamme erhellte
 sie notdürftig. Die Fenster waren zum großen
-Seil zerbrochen, es herrschte eine grimmige Kälte,
+Teil zerbrochen, es herrschte eine grimmige Kälte,
 und die Kamine hatten selbstverständlich kein
 Feuer. Den ganzen Tag hatten wir nichts zu
 essen bekommen, und hungrig wie die Wölfe
@@ -472,7 +472,7 @@ Kohlenkasten, auf dessen Rand er sich gesetzt
 hatte, um.
 
 Wenn ich damals schon die Erfahrungen besessen hätte,
-die ich mir nach fürfmonatiger Gefangenschaft
+die ich mir nach fünfmonatiger Gefangenschaft
 angeeignet hatte, ich wäre da schon ausgerückt.
 
 Sowohl in diesem Gefängnis wie auch in allen
@@ -625,11 +625,11 @@ eintränken, ich werde ihn schon vor das
 Kriegsgericht bringen.“
 
 Die Sache wurde mir doch zu bunt, ich war
-vollständig unschuldig und schrieb Maxstedt einen recht
+vollständig unschuldig und schrieb Marstedt einen recht
 energischen Brief, in dem ich unter anderem
 betonte, ich hoffte, er sei nur temporary lieutnant,
 nicht aber auch temporary gentleman. Das half!
-Maxstedt behauptete, mit diesem flying man
+Marstedt behauptete, mit diesem flying man
 nichts mehr zu tun haben zu wollen, und schon am
 nächsten Tage lag ein Dampfer längsseit und
 führte mich mit noch einigen Leidensgenossen von
@@ -739,7 +739,7 @@ hatten. Schon am Tage nach meinem Eintreffen
 in Dorchester reichte ich nochmals mein Gesuch
 um Überführung in ein Offizierslager ein, denn
 wie ich vorausgesehen hatte, war mein erstes
-Gesuch von Herrn Maxstedt nicht weitergegeben
+Gesuch von Herrn Marstedt nicht weitergegeben
 worden. Nach vierzehn Tagen kam das Gesuch
 vom Kriegsministerium zurück mit der Aufrage,
 ob ich nicht jemand in England namhaft machen
@@ -1319,8 +1319,8 @@ Und so geschah es.
 
 Und, es ist kein Scherz, zwanzig Mann der
 Wache mit aufgepflanztem Seitengewehr wurden
-gepfiffen, der eine deutsche Soldat mit dem un-
-schuldigen winzigen Kitzlein wurde von ihnen in
+gepfiffen, der eine deutsche Soldat mit dem
+unschuldigen winzigen Kitzlein wurde von ihnen in
 die Mitte genommen, und auf „Quick marsh“
 marschierte der ganze Zug zu dem inneren Tor
 des Hindernisses. Dann wurde dieses geöffnet,
