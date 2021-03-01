@@ -165,9 +165,6 @@ Mit Gott für Kaiser und Reich!
 ::::
 
 
-
-::::
-
 :::: align-center
 ****
 ::::

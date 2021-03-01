@@ -51,8 +51,8 @@ ich durch die kleine Lücke und befand mich
 wohlgeborgen im Bootsinnern.
 
 Jetzt holte ich von Innen die gelösten Bänzel
-wieder an, und kein Mensch hätte auf den Ge-
-danken kommen können, daß sich ein blinder
+wieder an, und kein Mensch hätte auf den
+Gedanken kommen können, daß sich ein blinder
 Passagier im Rettungsboot befand.
 
 Nun war es allerdings vorbei mit mir. Die

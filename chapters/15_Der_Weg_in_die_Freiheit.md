@@ -5,8 +5,8 @@
 wurde ich durch schrilles Sirenengeheul
 aufgeweckt.
 
-Vorsichtig öffnete ich ein Bänzel meines Be-
-zuges, und am liebsten hätte ich laut Hurra
+Vorsichtig öffnete ich ein Bänzel meines
+Bezuges, und am liebsten hätte ich laut Hurra
 geschrien, denn eben lief der Dampfer in den Hafen
 von Vlissingen ein.
 
