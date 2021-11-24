@@ -22,8 +22,8 @@ PREFACE_EPUB = chapters/preface/preface_epub.md
 PREFACE_HTML_PDF = chapters/preface/preface_html_pdf.md
 ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=block
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
-CALIBRE="C:/Program Files/Calibre2/"
-PANDOC = "C:\Program Files\Pandoc/pandoc"
+CALIBRE=""
+PANDOC = "pandoc"
 
 all: book
 

@@ -42,7 +42,7 @@ Wir dachten mit Schmerzen an die tapfere
 Besatzung und an ihren sicheren Untergang, aber
 mitten im tollsten Feuer schoß die eine alte
 Vierundzwanzig-Zentimeter-Kanone einen Schuß,
-und voll Spannung riehteten sich sofort alle unsere
+und voll Spannung richteten sich sofort alle unsere
 Doppelgläser auf die feindlichen Schiffe.
 
 Und da plötzlich ein Hurra! So jubelnd und

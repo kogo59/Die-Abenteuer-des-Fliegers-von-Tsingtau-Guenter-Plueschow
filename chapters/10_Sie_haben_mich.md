@@ -170,7 +170,7 @@ im Zwischendeck.
 
 Zwei Stunden später passierten wir die Freiheitsstatue.
 Fünf Seemeilen vor dem Hafen
-von New Vork lagen zwei englische Kreuzer und
+von New York lagen zwei englische Kreuzer und
 bewachten die Hafeneinfahrt. Ein leuchtendes
 Beispiel für die Freiheit der Meere! Die Dampferfahrt
 war fürchterlich.
