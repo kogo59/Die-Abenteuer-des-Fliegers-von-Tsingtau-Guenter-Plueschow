@@ -25,3 +25,6 @@ This work is in the public domain in the United States because it was published
 
 # Sources
 Die Abenteuer des Fliegers von Tsingtau. [Staatsbibliothek Berlin](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN756012309&PHYSID=PHYS_0001&USE=800)
+
+# ePUB
+Die Abenteuer des Fliegers von Tsingtau. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=337729)
