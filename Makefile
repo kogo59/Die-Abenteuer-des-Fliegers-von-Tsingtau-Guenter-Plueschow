@@ -17,7 +17,6 @@ CSS_ARG = --css=$(CSS_FILE)
 CSS_ARG_KINDLE = --css=$(CSS_FILE_KINDLE)
 CSS_ARG_PRINT = --css=$(CSS_FILE_PRINT)
 METADATA_ARG = --metadata-file=$(METADATA)
-METADATA_PDF = chapters/preface/metadata_pdf_html.md
 PREFACE_EPUB = chapters/preface/preface_epub.md
 PREFACE_HTML_PDF = 
 METADATA_PDF = chapters/preface/metadata_pdf_html.md
@@ -51,7 +50,6 @@ $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 	$(CALIBRE)ebook-polish --add-soft-hyphens -i -p -U  $@ $@
 	$(CALIBRE)ebook-convert $@ $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 --share-not-sync --disable-font-rescaling
 	$(CALIBRE)ebook-convert $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 $(BUILD)/epub/$(OUTPUT_FILENAME).mobi --share-not-sync --disable-font-rescaling --mobi-file-type both
-
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) $(PREFACE_HTML_PDF)
