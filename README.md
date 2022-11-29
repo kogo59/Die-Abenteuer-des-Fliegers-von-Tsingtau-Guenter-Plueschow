@@ -2,8 +2,6 @@
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193360389-5351328d-0b3f-4628-8f02-6b1b3fe2cd51.jpg">
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193360389-5351328d-0b3f-4628-8f02-6b1b3fe2cd51.jpg">
-
 This is a git repository of the source files for the book
 "Die Abenteuer des Fliegers von Tsingtau von Günter Plüschow."
 
@@ -11,7 +9,7 @@ Authors:
 
 * [Günter Plüschow](https://de.wikipedia.org/wiki/Gunther_Pl%C3%BCschow) (1886—1931)
 
-
+      
 # Licenses
 The author died in 1931, so this work is in the public domain in its country of
 origin and other countries and areas where the copyright term is the author's life
