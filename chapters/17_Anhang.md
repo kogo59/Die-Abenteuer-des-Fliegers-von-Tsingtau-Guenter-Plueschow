@@ -38,7 +38,7 @@ zugrunde liegen. Mit großer Anschaulichkeit, in
 einer Sprache, in der noch die ganze Unmittelbarkeit
 des Erlebnisses nachklingt, gibt er die Geschichte
 dieser für alle Zeiten denkwürdigen Tat. Vom Bau
-der „Deutschland“ erzãhlt er, von der Ausreise, vom
+der „Deutschland“ erzählt er, von der Ausreise, vom
 Kampf mit den Elementen, von der Verfolgung
 durch die Feinde, von der Ankunft in Baltimore,
 von der glücklichen Heimkehr. Eine Seemannsnatur

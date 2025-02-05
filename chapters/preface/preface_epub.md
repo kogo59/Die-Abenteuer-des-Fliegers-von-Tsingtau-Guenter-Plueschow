@@ -26,7 +26,7 @@ Kapitänleutnant<br />
 ::::
 
 :::: { .align-center  .fs-m}
-Günther Plüschow<br />
+Gunther Plüschow<br />
 ::::
 
 :::: { .wrap-10 }
