@@ -63,10 +63,3 @@ Länge nach auf den Planken ausstreckte und im
 selben Moment nicht mehr wußte, was um mich
 geschah.
 ::::
-
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

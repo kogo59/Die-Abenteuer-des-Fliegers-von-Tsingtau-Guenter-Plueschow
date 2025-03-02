@@ -295,10 +295,4 @@ schwerverdauliche Gegenstände herniederfallen.
 ::::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^061]: [*Simulaker*: vergleiche [Simulacrum](https://de.wikipedia.org/wiki/Simulacrum)]{.footnote}

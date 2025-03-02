@@ -126,8 +126,3 @@ Wir schüttelten uns die Hand, und schon setzte
 sich der Zug in Bewegung.
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

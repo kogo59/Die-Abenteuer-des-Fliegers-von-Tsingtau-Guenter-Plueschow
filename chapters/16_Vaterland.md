@@ -164,9 +164,3 @@ Mit Gott für Kaiser und Reich!
 
 ::::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

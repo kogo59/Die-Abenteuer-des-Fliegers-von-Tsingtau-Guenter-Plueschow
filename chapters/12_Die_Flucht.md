@@ -276,10 +276,3 @@ Jauchzer. Das war unser verabredetes Signal,
 daß alles geglückt war.
 
 ::::
-
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -1362,13 +1362,6 @@ Oberst davor und schüttelte bedenklich den Kopf.
 
 ::::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^141]: [*Andania*: vergleiche [RMS Andania](https://de.wikipedia.org/wiki/RMS_Andania_(Schiff,_1913))]{.footnote}
 
 [^142]: [*Feldmarschall Vorwärts*: vergleiche [Gebhard Leberecht von Blücher](https://de.wikipedia.org/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher)]{.footnote}

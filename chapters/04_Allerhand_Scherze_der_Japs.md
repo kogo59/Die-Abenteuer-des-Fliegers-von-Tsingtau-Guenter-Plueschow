@@ -331,10 +331,5 @@ bereits unsere Geschütze und warfen ihren Eisenhagel
 in die von mir neu erkundeten Stellungen ein.
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^051]: [*Kuff*: vergleiche [Kuff](https://de.wikipedia.org/wiki/Kuff)]{.footnote}

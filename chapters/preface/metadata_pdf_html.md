@@ -9,5 +9,5 @@
 % 1916,	Verlag Ullstein & Co, Berlin
 
 :::: {.w-100 .break-before .break-after }
-![](cover.jpg "cover.jpg")
+![](images/cover.jpg "")
 ::::

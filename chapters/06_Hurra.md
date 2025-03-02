@@ -235,11 +235,6 @@ Doch das ist eine spätere Geschichte.
 
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^071]: [*S 90*: vergleiche [SMS S 90](https://de.wikipedia.org/wiki/SMS_S_90)]{.footnote}
 

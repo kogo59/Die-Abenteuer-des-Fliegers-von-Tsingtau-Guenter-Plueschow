@@ -310,7 +310,7 @@ Berufstätigkeit des Journalisten heraus geborene Arbeit.
 Preis 1,50 Mark<br /><br />
 :::
 
-:::: algn-center
+:::: align-center
 ****
 ::::
 

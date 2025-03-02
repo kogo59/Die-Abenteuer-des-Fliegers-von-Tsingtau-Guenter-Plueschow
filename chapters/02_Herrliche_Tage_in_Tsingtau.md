@@ -313,11 +313,7 @@ in Tsingtau ein!
 
 ::::
 
-:::: align-center
-****
-::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^010]: [*Mukden*: vergleiche [Shenyang](https://de.wikipedia.org/wiki/Shenyang)]{.footnote}
 

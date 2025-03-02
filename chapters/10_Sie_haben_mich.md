@@ -455,10 +455,4 @@ wirst!
 ::::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^131]: [*Goeben*: vergleiche [SMS Goeben](https://de.wikipedia.org/wiki/SMS_Goeben)]{.footnote}

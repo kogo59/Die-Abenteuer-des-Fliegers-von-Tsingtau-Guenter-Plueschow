@@ -932,12 +932,6 @@ San Francisco!
 
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^101]: [*Nanking*: vergleiche [Nanjing](https://de.wikipedia.org/wiki/Nanjing)]{.footnote}
 
 [^102]: [*Mongolia*: vergleiche [Mongolia](https://de.wikipedia.org/wiki/Mongolia_(Schiff,_1904%E2%80%931946))]{.footnote}

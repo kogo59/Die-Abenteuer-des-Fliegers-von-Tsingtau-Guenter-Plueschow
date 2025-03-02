@@ -419,8 +419,3 @@ schwebte ich schon hoch oben im blauen
 Der modernste „Blockadebruch“ war mir gelungen!
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

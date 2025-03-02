@@ -1219,10 +1219,4 @@ Ein kurzes Aufstemmen, und oben war ich.
 ::::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^151]: [*Tilbury*: vergleiche [Tilbury](https://de.wikipedia.org/wiki/Tilbury)]{.footnote}

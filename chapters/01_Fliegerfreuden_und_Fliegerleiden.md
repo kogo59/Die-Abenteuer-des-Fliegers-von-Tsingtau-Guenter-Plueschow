@@ -562,12 +562,6 @@ begann.
 
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^001]: [*Tsingtau*: vergleiche [Qingdao](https://de.wikipedia.org/wiki/Qingdao)]{.footnote}
 
 [^002]: [*Johannisthal*: vergleiche [Flugplatz Johannisthal](https://de.wikipedia.org/wiki/Flugplatz_Johannisthal)]{.footnote}

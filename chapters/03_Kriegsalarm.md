@@ -835,12 +835,6 @@ Schiffe füllt ein Ruhmesblatt in der Geschichte
 von Tsingtaus Kampf und Tod.
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^021]: [*Kioutschou*: vergleiche [Kiautschou](https://de.wikipedia.org/wiki/Kiautschou)]{.footnote}
 
 [^022]: [*Tientsin*: vergleiche [Tianjin](https://de.wikipedia.org/wiki/Tianjin)]{.footnote}

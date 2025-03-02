@@ -290,4 +290,3 @@ Kameraden verlöre.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
