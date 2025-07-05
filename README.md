@@ -1,6 +1,6 @@
 # Die Abenteuer des Fliegers von Tsingtau.
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193360389-5351328d-0b3f-4628-8f02-6b1b3fe2cd51.jpg">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/13177792/193360389-5351328d-0b3f-4628-8f02-6b1b3fe2cd51.jpg">
 
 This is a git repository of the source files for the book
 "Die Abenteuer des Fliegers von Tsingtau von Gunther Plüschow."
